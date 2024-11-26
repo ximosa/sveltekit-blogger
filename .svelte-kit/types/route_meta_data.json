@@ -1,0 +1,10 @@
+{
+	"/": [],
+	"/blog": [
+		"src/routes/blog/+page.server.js"
+	],
+	"/contacto": [
+		"src/routes/contacto/+page.server.js"
+	],
+	"/sobremi": []
+}
