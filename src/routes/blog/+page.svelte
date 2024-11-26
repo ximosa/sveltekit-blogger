@@ -113,7 +113,7 @@
   
   {#if loading}
     <div class="loading">
-      Cargando posts...
+      Cargando posts...<progress class="circle large"></progress>
       {#if allPosts.length > 0}
         <p>Posts cargados hasta ahora: {allPosts.length}</p>
       {/if}

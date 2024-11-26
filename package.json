@@ -19,7 +19,6 @@
   },
   "type": "module",
   "dependencies": {
-    "@sveltejs/adapter-vercel": "^5.4.8",
     "@types/nodemailer": "^6.4.14",
     "nodemailer": "^6.9.9"
   }

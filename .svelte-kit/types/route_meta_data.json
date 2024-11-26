@@ -12,5 +12,8 @@
 	"/contacto": [
 		"src/routes/contacto/+page.server.js"
 	],
+	"/sitemap.xml": [
+		"src/routes/sitemap.xml/+server.ts"
+	],
 	"/sobremi": []
 }

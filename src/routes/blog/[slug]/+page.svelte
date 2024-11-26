@@ -54,7 +54,7 @@
         </div>
       </div>
     {:else}
-      <p>Cargando...</p>
+      <p class="center-align">Cargando...<progress class="circle large"></progress></p>
     {/if}
     
     <style>
