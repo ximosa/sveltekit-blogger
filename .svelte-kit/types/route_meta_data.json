@@ -1,7 +1,13 @@
 {
 	"/": [],
+	"/api/contact": [
+		"src/routes/api/contact/+server.js"
+	],
 	"/blog": [
 		"src/routes/blog/+page.server.js"
+	],
+	"/blog/[slug]": [
+		"src/routes/blog/[slug]/+page.server.ts"
 	],
 	"/contacto": [
 		"src/routes/contacto/+page.server.js"
