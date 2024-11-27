@@ -28,8 +28,8 @@
         <i>dark_mode</i>
       </span>
     </label>
-    
-  <button class="small-round extra primary " data-ui="#dialog-modal">Contactar <i>mail</i></button>
+    <button class="small-round primary s" data-ui="#dialog-modal"><i>mail</i></button> 
+  <button class="small-round extra primary l m" data-ui="#dialog-modal">Contactar <i>mail</i></button>
     </nav>
   
   </header>

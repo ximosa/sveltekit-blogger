@@ -1,5 +1,5 @@
 <main>
-  <div class="grid padding full-width-content indigo10"> 
+  <div class="grid padding indigo10"> 
     <div class="s12 m12 l6 large-padding white-text center-align">
        <div class="large-space"></div>
        <div class="large-space"></div>
@@ -19,9 +19,9 @@
     
      <div class="large-space"></div> 
        </div>
-      <div class="s12 m12 l6 center-align l">
-    <div class="large-space"></div>
-        <img alt="Diseño y desarrollo web" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo7KPRp_aP1IEf7xGDxapy3cQMh46THb9HG-5PYkwnomKrXlerQE9JozfiTJRUOiP7Fp5XIeKwTKSXPEvyoXftgcRjak59f_s_EATeBQTRKWg5l_DzUrx8nP_RLlR7PTrwRsziNrdROjBrbMwnB6L3yh4eK0NUpSF4sYiybIn7q5u8sBUcaNrJe3Z3XPw/s650/E-meeting%20with%20team@1x_resized.png" title="Web Full-Stack" />
+      <div class="s12 m12 l6 center-align">
+    
+        <img class="responsive" alt="Diseño y desarrollo web" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo7KPRp_aP1IEf7xGDxapy3cQMh46THb9HG-5PYkwnomKrXlerQE9JozfiTJRUOiP7Fp5XIeKwTKSXPEvyoXftgcRjak59f_s_EATeBQTRKWg5l_DzUrx8nP_RLlR7PTrwRsziNrdROjBrbMwnB6L3yh4eK0NUpSF4sYiybIn7q5u8sBUcaNrJe3Z3XPw/s650/E-meeting%20with%20team@1x_resized.png" title="Web Full-Stack" />
              
       </div>
       </div>
@@ -47,7 +47,7 @@
        <div class="large-space"></div>
        <div class="large-space"></div> 
     
-    <div class="inverse-surface full-width-content">
+    <div class="inverse-surface">
     <div class="large-space"></div>
     <div class="center-align">
               <i class="extra">compost</i>
@@ -90,7 +90,7 @@
       
       <div class="large-space"></div>
                             
-                             <div class="grid">
+ <div class="grid">
         <div class="s12 l4">
           <div class="fill medium-height middle-align center-align padding">
             <div class="center-align">
@@ -157,4 +157,5 @@
        </div>
     <div class="large-space"></div>
 </main>
+
 

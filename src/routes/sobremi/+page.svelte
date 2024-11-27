@@ -1,7 +1,7 @@
 <main>
   <div class="large-space"></div>
   <div class="large-space"></div>
- <div class="grid large-padding full-width-content">
+ <div class="grid large-padding">
    <div class="s12 m12 l6">
    <img alt="Webgae agencia de diseño y desarrollo web" height="262" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUK9G6AS90w8OqVXOoXNAYwqZUUakDn0OU1595AF57aDrfwUfVRgnira0nbBDEmJgSBG8bMOQADse5WoDKdqXkrPMmL3wGe5LMTTNxabbkC8j6nhGZ3fNEpZKxjv5a1hoEKUp1ZhrLiEQ/w298-h262/undraw_site_content_ihgn.png" width="298" />
    </div>
