@@ -1,8 +1,8 @@
 <script>
     import { page } from '$app/stores';
   </script>
-  <header class="surface-container-lowest" >
-  <nav id="navbar" class="fixed surface-container-lowest top">
+  <header class="primary-container" >
+  <nav id="navbar" class="fixed primary-container top">
       <button data-ui="#dialog-navigation" class="circle transparent">
         <i>menu</i>
       </button>

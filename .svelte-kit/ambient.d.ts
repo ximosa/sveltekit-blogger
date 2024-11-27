@@ -26,10 +26,10 @@
  * ```
  */
 declare module '$env/static/private' {
-	export const VITE_GMAIL_USER: string;
-	export const VITE_GMAIL_PASS: string;
-	export const VITE_API_KEY: string;
 	export const VITE_BLOG_ID: string;
+	export const VITE_API_KEY: string;
+	export const VITE_GMAIL_PASS: string;
+	export const VITE_GMAIL_USER: string;
 	export const ALLUSERSPROFILE: string;
 	export const APPDATA: string;
 	export const CHROME_CRASHPAD_PIPE_NAME: string;
@@ -137,10 +137,10 @@ declare module '$env/static/public' {
  */
 declare module '$env/dynamic/private' {
 	export const env: {
-		VITE_GMAIL_USER: string;
-		VITE_GMAIL_PASS: string;
-		VITE_API_KEY: string;
 		VITE_BLOG_ID: string;
+		VITE_API_KEY: string;
+		VITE_GMAIL_PASS: string;
+		VITE_GMAIL_USER: string;
 		ALLUSERSPROFILE: string;
 		APPDATA: string;
 		CHROME_CRASHPAD_PIPE_NAME: string;

@@ -15,15 +15,4 @@
     overflow-x: hidden;
     width: 100%;
   }
-  
-  .grid {
-    max-width: 100%;
-  }
-  
-  img.responsive {
-    max-width: 100%;
-    height: auto;
-  }
-  
-  
   </style>
