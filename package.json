@@ -23,3 +23,9 @@
     "nodemailer": "^6.9.9"
   }
 }
+
+{
+  "engines": {
+    "node": "20.x"
+  }
+}
