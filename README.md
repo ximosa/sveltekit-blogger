@@ -1,7 +1,7 @@
 # Blog con SvelteKit y API de Blogger
 
 ## 🚀 Demo
-[Ver demo en vivo](https://sveltekit-blogger-pphr.vercel.app/blog)
+[Ver demo en vivo](https://sveltekit-blogger-pphr.vercel.app/)
 
 ## ✨ Características
 
